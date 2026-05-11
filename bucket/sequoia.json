@@ -1,0 +1,15 @@
+{
+    "version": "0.1.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/Crisbr10/sequoia/releases/download/v0.1.0/sequoia_0.1.0_windows_amd64.zip",
+            "bin": [
+                "sequoia.exe"
+            ],
+            "hash": "409e222d40a3a602f8a908b31704a8b54617e2a5a5e1f258613fcd7c99425995"
+        }
+    },
+    "homepage": "https://github.com/Crisbr10/sequoia",
+    "license": "MIT",
+    "description": "Multi-agent code audit framework with Go CLI installer and TUI.\nDeploy specialized AI agents to inspect projects from every angle.\n"
+}
