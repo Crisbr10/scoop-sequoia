@@ -1,12 +1,12 @@
 {
-    "version": "0.1.0",
+    "version": "0.1.1",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/Crisbr10/sequoia/releases/download/v0.1.0/sequoia_0.1.0_windows_amd64.zip",
+            "url": "https://github.com/Crisbr10/sequoia/releases/download/v0.1.1/sequoia_0.1.1_windows_amd64.zip",
             "bin": [
                 "sequoia.exe"
             ],
-            "hash": "409e222d40a3a602f8a908b31704a8b54617e2a5a5e1f258613fcd7c99425995"
+            "hash": "69a0ff7889bec02ec14d33e7efdd18fdd142960e81bf0afecc3c237f14b9d86d"
         }
     },
     "homepage": "https://github.com/Crisbr10/sequoia",
